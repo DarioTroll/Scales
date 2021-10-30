@@ -1,0 +1,29 @@
+﻿SCALE
+
+Maggiore
+2 2 1 2 2 2 1
+
+Minore
+2 1 2 2 1 2 2
+
+Araba
+1 3 1 2 1 3 1
+
+Minore_Armonica
+
+2 1 2 2 1 3 1
+
+Maggiore_Orientale
+
+1 3 1 1 3 1 2
+
+Minore_Orientale
+
+2 1 3 1 1 3 1
+
+Bachiana_Asc
+
+2 1 2 2 2 2 1
+
+
+ 
